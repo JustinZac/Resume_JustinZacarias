@@ -25,6 +25,11 @@ header {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+section{
+    scroll-margin-top: 260px;
+}
+
+
 header img {
     width: 100px; /* Tamaño medio */
     height: auto; /* Mantener proporciones */
